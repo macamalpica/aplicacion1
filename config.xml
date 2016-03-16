@@ -3,8 +3,9 @@
 	xmlns:gap  = "http://phonegap.com/ns/1.0"
 	id = "com.phonegap.example1"
 	versionCode = "10"
-	version = "1.0.0"
+	version = "1.0.0">
 
+  <!-- Colocar icono app -->	
 	
 	<name>Aplicacion uno DATOSALUMNOS</name>
 	
